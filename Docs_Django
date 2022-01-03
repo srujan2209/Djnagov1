@@ -1,0 +1,19 @@
+Original Basic Djnago Documentation Link
+https://docs.djangoproject.com/en/4.0/intro/tutorial01/
+
+Check the Djnago version
+1. python -m django --version
+
+# Project Creation for DJango Basics
+Creating a project mysite project in Djnago
+2. django-admin startproject mysite
+
+The development server¶ Whether Djnago Works or not
+3. python manage.py runserver
+
+By default Django runs on 8000/ If you want to change
+4. py manage.py runserver 8080
+
+Creating the Polls app:
+1. py manage.py startapp polls
+
